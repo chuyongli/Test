@@ -22,4 +22,9 @@ if(year %% 400 == 0){
   print("no")
 }
 
+<<<<<<< HEAD
 # testing by Tenzin
+=======
+
+print("Happy birthday")
+>>>>>>> 14e9021ee4823ab337be4e7ba73af20d8bc07b04
